@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="assets/css/menu.css"?>
 <!DOCTYPE menu [
 <!ENTITY nbsp "&#xA0;"> 
 <!ENTITY writer "Writer: Madison Young.">
